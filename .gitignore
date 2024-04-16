@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+tmp/
+logs/
+payloads/
+.idea/misc.xml
+.idea/logwise_dummy_app.iml
+.idea/workspace.xml
+resolvd-ai.2023-10-04.private-key.pem
+resolvdapp.2024-04-15.private-key.pem
+.env
+.github
